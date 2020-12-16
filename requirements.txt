@@ -1,0 +1,4 @@
+PyAudio==0.2.11
+python-slugify==4.0.1
+jupyter==1.0.0
+ipywidgets==7.5.1
