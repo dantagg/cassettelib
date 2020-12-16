@@ -53,5 +53,6 @@ amixer -c0 sset "Right Output Mixer RINPUT3" 0
 
 amixer -c0 sset "Capture" 40
 
+
 sudo arecord -D hw:0 -f S16_LE -r 44100 -c 2 -d 60 arecord3.wav
 
